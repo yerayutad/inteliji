@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="@localhost" uuid="03dd5866-3abd-4b10-8364-b40ef1a770f0">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="@localhost [2]" uuid="59fda294-4db2-4037-82de-59de2db8a373">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>yedi261</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="@localhost [3]" uuid="276ccc14-583c-4ea5-bc46-8d1aeb453e96">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>yedi261</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
